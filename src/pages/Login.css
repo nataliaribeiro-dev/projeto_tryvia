@@ -1,0 +1,65 @@
+.login-page {
+  display: flex;
+  background: linear-gradient(180deg, #3C1B7A 0%, #000 100%);
+  background-image: url('../images/login-background.png'), lightgray 50% / cover no-repeat;
+  height: 100vh;
+
+
+}
+
+.form-container {
+  margin: 0 auto;
+  margin-top: 13rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  gap: 1rem;
+  width: 614px;
+  height: 333px;
+  padding: 0 2rem;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 1px 4px 13px 2px rgba(0, 0, 0, 0.20);
+}
+
+.trivia-container {
+  display: flex;
+  width: 9rem;
+  height: 9rem;
+  flex-shrink: 0;
+
+}
+
+.trivia {
+  display: flex;
+  flex-direction: column;
+  width: 8rem;
+  height: 8rem;
+
+/* .question {
+  display: flex;
+  width: 104px;
+  height:158px;
+}
+
+.question1 {
+  display: flex;
+  width: 150px;
+  height:228px;
+}
+
+.question3 {
+  margin:1029px 263px 101px 268px;
+  display: flex;
+  width: 91px;
+  height:139px;
+}
+
+question4 {
+  display: flex;
+  
+  width: 150px;
+  height:228px;
+} */}
