@@ -27,3 +27,4 @@ describe('Testa componente de Ranking', () => {
     expect(playAgainBtn).toBeInTheDocument();
   });
 });
+// nada
